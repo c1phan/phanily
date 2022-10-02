@@ -1,6 +1,8 @@
 # phanily + fakeboogy
 spaceapps competition:
 
+https://c1phan.github.io/phanily/
+
 Game #3:
   - Programmer = Sylvia Thong
   - Maze Game
