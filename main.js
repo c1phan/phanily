@@ -10,7 +10,7 @@ winMessage = function() {
     console.log("func called")
     modal.style.display = "block";
     x = document.querySelector(".gamehead");
-    x.textContent = "Congrats! You found the way!"
+    x.textContent = "YASSS QUEEN"
 }
 
 document.getElementById("demo").addEventListener("click", myFunction);
