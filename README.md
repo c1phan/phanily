@@ -3,6 +3,9 @@ spaceapps competition:
 
 https://c1phan.github.io/phanily/
 
+<img src="./image.png" alt="maze" width="100%"/>
+
+
 Game #3:
   - Programmer = Sylvia Thong
   - Maze Game
